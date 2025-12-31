@@ -1,0 +1,1 @@
+The notebook and report were written as part of the requirements for the COMPSCI 648: Quantum Information Systems class at UMass Amherst. LLMs were used for minor code generation and report organization.
